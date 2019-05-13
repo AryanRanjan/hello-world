@@ -1,2 +1,4 @@
 # hello-world
-new to github
+
+Hi!,
+I am new to GitHub and need tutorials for C Programming.
